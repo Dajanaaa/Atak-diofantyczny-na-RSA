@@ -9,4 +9,4 @@ Koncepcja ta opiera się na problemie rozkładu dużych liczb na czynniki pierws
 
 
 Atak Wienera na RSA
-To atak korzystający z ułamków łańcuchowych to odtworzenia klucza prywatnego, gdy klucz ten jest odpowiednio mały.
+to atak korzystający z ułamków łańcuchowych do odtworzenia klucza prywatnego, gdy klucz ten jest odpowiednio mały.
